@@ -190,11 +190,6 @@ The breathing circle mid-expansion with a live cue ("Breathe in") and countdown.
 ### 4. Session complete + mood check-in
 The summary (technique, duration, cycles) and the four mood options you can tap to log how you feel.
 ![alt text](image-3.png)
-
-### 5. Your journey — history & heatmap
-The stats row (streak / sessions / minutes), the 12-week calendar heatmap, and the recent sessions list with moods and delete buttons.
-![alt text](image-4.png)
-
 ---
 
 ## g. How to run the project
